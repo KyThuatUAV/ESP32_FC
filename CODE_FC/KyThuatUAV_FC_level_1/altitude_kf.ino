@@ -19,6 +19,7 @@
 //  Giu nguyen phan ghi cong nay khi dung lai hoac chinh sua ma nguon.
 //
 //  Nguon tham khao va ghi cong day du: xem file LOI_NHAN_VA_GHI_CONG.md
+//  Lien he: Nguyen Van Quy - 0817 550 271 (Zalo)
 // ============================================================================
 // ============================================================================
 //  Kalman 2 trạng thái ước lượng độ cao và tốc độ thẳng đứng.
