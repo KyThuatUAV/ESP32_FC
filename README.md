@@ -105,3 +105,32 @@ Xem **[Tài liệu kèm theo/LOI_NHAN_VA_GHI_CONG.md](Tài%20liệu%20kèm%20the
 
 Trong đó cũng nói vì sao dự án này được công khai, và ba điều mong bạn giữ khi
 dùng lại.
+
+---
+
+## Khoá học
+
+Bộ mã nguồn ở đây là **bậc đầu tiên**: bay cân bằng. Miễn phí, đầy đủ, và tài
+liệu viết để bạn tự đi hết được một mình. **Không cần học khoá nào cũng dùng
+được trọn bộ này.**
+
+Ai muốn đi nhanh hơn thì có khoá học, đi từ số 0, kèm 1-1:
+
+| Bậc | Nội dung |
+|---|---|
+| 1 | **Lập trình bay cân bằng** — ước lượng góc, PID, mixer |
+| 2 | **Lập trình giữ vị trí** — baro, lidar, optical flow, hợp nhất cảm biến |
+| 3 | **Lập trình đa luồng và xử lý nhiễu** — làm drone hết rung, motor hết nóng, chỉnh PID sâu hơn mà không bị rít |
+| 4 | **Lập trình hệ định vị và tự hành** |
+
+Học trực tiếp tại TP.HCM, hoặc online cho các tỉnh thành khác.
+
+Khoá học là để đi nhanh, an toàn và xa hơn — không phải để mở khoá thứ gì.
+
+## Liên hệ
+
+**Nguyễn Văn Quý** — Kỹ Thuật UAV
+📞 0817 550 271 (gọi hoặc Zalo)
+
+Lỗi trong mã nguồn thì mở [Issue](../../issues) trên GitHub — để người sau gặp
+cùng lỗi còn đọc được câu trả lời.
