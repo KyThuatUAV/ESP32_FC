@@ -1,0 +1,30 @@
+# Thư mục build của Arduino IDE
+build/
+*.bin
+*.elf
+*.map
+*.hex
+
+# File tạm của Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# File tạm của macOS
+.DS_Store
+
+# File tạm của trình soạn thảo
+*~
+*.swp
+.vscode/
+.idea/
+
+# File tạm của Word khi đang mở tài liệu
+~$*.docx
+~$*.doc
+~$*.xlsx
+
+# Dữ liệu cá nhân của người đăng ký nhận mạch - TUYỆT ĐỐI không đưa lên
+danh_sach_dang_ky*
+*dang_ky*.xlsx
+*dang_ky*.csv
