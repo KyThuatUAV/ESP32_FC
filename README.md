@@ -91,7 +91,29 @@ Firmware biên dịch được **không có nghĩa là bay được**. Trước 
 
 ---
 
-## Giấy phép
+## Đã bay nghiệm thu
+
+Bộ hệ số PID mặc định trong code đã bay thật trên cấu hình:
+
+| | |
+|---|---|
+| Khung | 5 inch |
+| Động cơ | 2204, 2300KV |
+| Cánh | 5 inch |
+| Pin | 3S 2200mAh |
+
+Khung của bạn khác nhiều so với cấu hình này — nặng hơn, cánh to hơn, pin nhiều
+cell hơn — thì nhiều khả năng phải chỉnh lại PID. Đó là chuyện bình thường, không
+phải code sai.
+
+Hướng chỉnh khi khung khác:
+
+- **Khung to và nặng hơn** → giảm `KP_RATE_ROLL` và `KP_RATE_PITCH`. Khung càng
+  nặng thì phản ứng càng chậm, giữ hệ số cao sẽ dao động.
+- **Nghe motor rít tần số cao** → giảm `KD_RATE_ROLL` và `KD_RATE_PITCH`.
+- **Lắc chậm biên độ lớn** → giảm `KP_RATE_*` trước, chưa hết thì giảm `KI_RATE_*`.
+
+Lần bay đầu tiên luôn buộc dây và bay thấp, dù cấu hình có giống hệt.
 
 [GPL-3.0](LICENSE).
 
