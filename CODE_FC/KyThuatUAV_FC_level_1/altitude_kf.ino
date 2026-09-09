@@ -35,7 +35,7 @@
 //  QUAN TRỌNG - vì sao gọi CẢ predict LẪN correct ở MỖI vòng 500Hz,
 //  kể cả khi baro chưa có mẫu mới:
 //
-//  Bộ tham số này (sigma gia tốc = 1 cm/s^2, R = 30^2) cho ma trận P mọc rất
+//  Bộ tham số này (sigma gia tốc = 4 cm/s^2, R = 30^2) cho ma trận P mọc rất
 //  chậm, nên độ lợi Kalman K rất nhỏ. Nó chỉ kéo được ước lượng bám theo baro
 //  nhờ ĐƯỢC ÁP DỤNG 500 LẦN MỖI GIÂY - cộng dồn lại mới đủ lực.
 //

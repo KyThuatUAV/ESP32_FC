@@ -24,7 +24,21 @@ $RECYCLE.BIN/
 ~$*.doc
 ~$*.xlsx
 
-# Dữ liệu cá nhân của người đăng ký nhận mạch - TUYỆT ĐỐI không đưa lên
+# ============================================================
+# DỮ LIỆU CÁ NHÂN CỦA NGƯỜI ĐĂNG KÝ NHẬN MẠCH
+# TUYỆT ĐỐI KHÔNG ĐƯỢC ĐƯA LÊN GITHUB
+#
+# Chặn thẳng mọi file bảng tính trong repo. Repo này không có file
+# bảng tính nào hợp lệ cả, nên chặn hết là an toàn nhất - không phải
+# nhớ đặt tên file thế nào cho khớp mẫu.
+#
+# Lần trước mẫu chặn viết không dấu (dang_ky) nên file tên tiếng Việt
+# có dấu "Đăng ký ... (Câu trả lời).xlsx" lọt qua được.
+# ============================================================
+*.xlsx
+*.xls
+*.csv
+*.ods
+Đăng ký*
+*Câu trả lời*
 danh_sach_dang_ky*
-*dang_ky*.xlsx
-*dang_ky*.csv
