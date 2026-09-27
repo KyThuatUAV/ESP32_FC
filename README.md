@@ -1,9 +1,11 @@
-# Mạch bay ESP32 — Kỹ Thuật UAV
+# LacWing — mạch bay ESP32 mã nguồn mở
 
 Mã nguồn mở của một bộ điều khiển bay (flight controller) cho drone bốn cánh,
 chạy trên ESP32. Kèm tài liệu hướng dẫn từ lúc cài phần mềm tới lúc bay thử.
 
 Dành cho sinh viên và người tự học. Miễn phí, không điều kiện.
+
+LacWing là dòng bộ điều khiển bay của Kỹ Thuật UAV.
 
 ---
 
@@ -48,7 +50,7 @@ Tóm tắt cho người đã quen Arduino:
 3. Cài gói **esp32 phiên bản 2.0.17** — **không phải bản mới nhất**
 4. Cài thư viện `BasicLinearAlgebra`
 5. Board: **ESP32-WROOM-DA Module**
-6. Mở `CODE_FC/KyThuatUAV_FC_level_1/KyThuatUAV_FC_level_1.ino`
+6. Mở `CODE_FC/LacWing_FC_level_1/LacWing_FC_level_1.ino`
 
 > ⚠️ **Phải đúng core 2.0.17.** Từ bản 3.x, Espressif đổi hoàn toàn cách gọi hàm
 > xuất xung PWM, cài nhầm là biên dịch báo `'ledcSetup' was not declared in this scope`.
@@ -61,8 +63,8 @@ gọn trong **một khối duy nhất** ở đầu file `.ino` chính.
 ## Cấu trúc thư mục
 
 ```
-CODE_FC/KyThuatUAV_FC_level_1/   firmware
-├── KyThuatUAV_FC_level_1.ino    khối cấu hình + setup + các tác vụ RTOS
+CODE_FC/LacWing_FC_level_1/   firmware
+├── LacWing_FC_level_1.ino    khối cấu hình + setup + các tác vụ RTOS
 ├── control_task.ino             vòng điều khiển chính, các chế độ bay
 ├── imu_icm20602.ino             driver IMU + ước lượng góc + hiệu chỉnh
 ├── baro_bmp388.ino              driver áp suất, viết bằng thanh ghi

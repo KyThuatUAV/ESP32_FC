@@ -1,5 +1,5 @@
 // ============================================================================
-//  KyThuatUAV FC - firmware bay ESP32 (FreeRTOS), che do Angle + Alt Hold
+//  LacWing FC - firmware bay ESP32 (FreeRTOS), che do Angle + Alt Hold
 //
 //  Copyright (C) 2026  Nguyễn Văn Quý (Ky Thuat UAV)
 //
@@ -22,7 +22,7 @@
 //  Lien he: Nguyen Van Quy - 0817 550 271 (Zalo)
 // ============================================================================
 // ============================================================================
-//   KyThuatUAV FC  -  ESP32 + ICM20602 (SPI) + BMP388 (I2C) + SBUS
+//   LacWing FC  -  ESP32 + ICM20602 (SPI) + BMP388 (I2C) + SBUS
 //
 //   Hai chế độ bay: ANGLE và ALT HOLD.
 //
@@ -199,7 +199,7 @@ void setup() {
 
   alt_kf_init();
 
-  Serial.println("KyThuatUAV FC - angle + alt hold");
+  Serial.println("LacWing FC - angle + alt hold");
 
   mtx_rc   = xSemaphoreCreateMutex();
   mtx_baro = xSemaphoreCreateMutex();

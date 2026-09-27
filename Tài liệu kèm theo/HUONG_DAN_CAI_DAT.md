@@ -8,7 +8,7 @@ Trong bộ mã nguồn có hai sketch:
 | Thư mục | Nội dung | Tốc độ Serial |
 |---|---|---|
 | `Fc_basic_for_KyThuatUAV` | Bản cơ bản, một vòng lặp, chỉ bay chế độ Angle | 115200 |
-| `KyThuatUAV_FC_level_1` | Bản FreeRTOS, hai chế độ Angle và Alt Hold | 500000 |
+| `LacWing_FC_level_1` | Bản FreeRTOS, hai chế độ Angle và Alt Hold | 500000 |
 
 Cả hai đều nạp bằng cùng một môi trường mô tả dưới đây.
 
@@ -123,7 +123,7 @@ Các mục không nhắc tới thì để nguyên mặc định.
 
 ## Bước 5 — Thư viện
 
-Chỉ cần cài **một** thư viện, và chỉ cho sketch `KyThuatUAV_FC_level_1`:
+Chỉ cần cài **một** thư viện, và chỉ cho sketch `LacWing_FC_level_1`:
 
 1. Mở **Tools → Manage Libraries** (hoặc biểu tượng sách ở thanh trái).
 2. Gõ `BasicLinearAlgebra`, tìm thư viện của **Tom Stewart**.
@@ -169,7 +169,7 @@ tượng chuyển thành dấu tích xanh đặc rồi biên dịch lại.
 ## Bước 6 — Mở và nạp firmware
 
 1. Mở thư mục sketch, **nhấn đúp vào file `.ino` trùng tên với thư mục**:
-   - `KyThuatUAV_FC_level_1/KyThuatUAV_FC_level_1.ino`
+   - `LacWing_FC_level_1/LacWing_FC_level_1.ino`
    - hoặc `Fc_basic_for_KyThuatUAV/Fc_basic_for_KyThuatUAV.ino`
 
    Arduino IDE sẽ tự mở tất cả các file còn lại thành các tab bên cạnh. Nếu chỉ
@@ -191,13 +191,13 @@ tượng chuyển thành dấu tích xanh đặc rồi biên dịch lại.
 
 Mở **Tools → Serial Monitor**, chọn đúng tốc độ ở góc phải:
 
-- `KyThuatUAV_FC_level_1` → **500000**
+- `LacWing_FC_level_1` → **500000**
 - `Fc_basic_for_KyThuatUAV` → **115200**
 
 Chọn sai tốc độ thì màn hình ra toàn ký tự rác. Đây là lỗi hiển thị, không phải
 mạch hỏng.
 
-Với `KyThuatUAV_FC_level_1`, nếu mọi thứ đúng bạn sẽ thấy:
+Với `LacWing_FC_level_1`, nếu mọi thứ đúng bạn sẽ thấy:
 
 ```
 ICM20602 = 1
@@ -210,7 +210,7 @@ cali gyro thanh cong
 bias gyro (do/giay) -1.24 | 0.87 | 0.31
 BMP388   = 1
 Cao do goc = 12.437
-KyThuatUAV FC - angle + alt hold
+LacWing FC - angle + alt hold
 ```
 
 Ý nghĩa:
@@ -243,7 +243,7 @@ KyThuatUAV FC - angle + alt hold
 
 Toàn bộ thiết lập nằm trong khối **CẤU HÌNH** ở đầu file `.ino` chính, không rải
 rác trong các file khác. Mở
-`KyThuatUAV_FC_level_1/KyThuatUAV_FC_level_1.ino` là thấy ngay.
+`LacWing_FC_level_1/LacWing_FC_level_1.ino` là thấy ngay.
 
 Những thứ hay phải sửa:
 
@@ -279,7 +279,7 @@ Bỏ qua bước này thì hỏng hai thứ:
 
 ### Các bước
 
-1. Mở file `KyThuatUAV_FC_level_1.ino`, tìm trong khối CẤU HÌNH dòng:
+1. Mở file `LacWing_FC_level_1.ino`, tìm trong khối CẤU HÌNH dòng:
 
    ```cpp
    // #define CALIBRATE_ACCEL
@@ -300,7 +300,7 @@ Bỏ qua bước này thì hỏng hai thứ:
    Do duoc:  X = -0.0213   Y = +0.0087   Z = +0.9931  (g)
 
    Chep DUNG ba dong duoi day, thay vao khoi CAU HINH
-   trong file KyThuatUAV_FC_level_1.ino:
+   trong file LacWing_FC_level_1.ino:
 
    #define ACC_OFFSET_X_G   +0.0213f
    #define ACC_OFFSET_Y_G   -0.0087f

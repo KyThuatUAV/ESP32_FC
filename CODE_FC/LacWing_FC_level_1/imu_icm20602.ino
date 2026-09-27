@@ -1,5 +1,5 @@
 // ============================================================================
-//  KyThuatUAV FC - firmware bay ESP32 (FreeRTOS), che do Angle + Alt Hold
+//  LacWing FC - firmware bay ESP32 (FreeRTOS), che do Angle + Alt Hold
 //
 //  Copyright (C) 2026  Nguyễn Văn Quý (Ky Thuat UAV)
 //
@@ -162,7 +162,7 @@ void imu_calibrate_accel() {
     Serial.println("   Kiem tra lai roi khoi dong lai mach.");
   } else {
     Serial.println("Chep DUNG ba dong duoi day, thay vao khoi CAU HINH");
-    Serial.println("trong file KyThuatUAV_FC_level_1.ino:");
+    Serial.println("trong file LacWing_FC_level_1.ino:");
     Serial.println();
     Serial.printf("#define ACC_OFFSET_X_G   %+.4ff\n", -mean_x);
     Serial.printf("#define ACC_OFFSET_Y_G   %+.4ff\n", -mean_y);

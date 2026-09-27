@@ -1,5 +1,5 @@
 // ============================================================================
-//  KyThuatUAV FC - firmware bay ESP32 (FreeRTOS), che do Angle + Alt Hold
+//  LacWing FC - firmware bay ESP32 (FreeRTOS), che do Angle + Alt Hold
 //
 //  Copyright (C) 2026  Nguyễn Văn Quý (Ky Thuat UAV)
 //

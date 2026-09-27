@@ -55,7 +55,7 @@ Không có dự án nào bắt đầu từ con số không.
   biến rồi ước lượng trạng thái rồi điều khiển rồi trộn tín hiệu ra bốn động cơ,
   theo đúng thứ tự đó.
 - **Trình tự dạy từ dễ tới khó.** Bay rate trước, rồi angle, rồi mới tới giữ độ
-  cao. Cấu trúc hai bản `Fc_basic_for_KyThuatUAV` và `KyThuatUAV_FC_level_1`
+  cao. Cấu trúc hai bản `Fc_basic_for_KyThuatUAV` và `LacWing_FC_level_1`
   chính là đi theo lối đó.
 
 Nếu bạn đang học làm flight controller, hãy xem trực tiếp tài liệu gốc của họ.
