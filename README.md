@@ -7,6 +7,9 @@ Dành cho sinh viên và người tự học. Miễn phí, không điều kiện
 
 LacWing là dòng bộ điều khiển bay của Kỹ Thuật UAV.
 
+> 💬 **Nhóm cộng đồng trên Zalo — [bấm vào đây để tham gia](https://zalo.me/g/82dzphstzd1gbarwtckt)**
+> Chỗ để hỏi khi bị kẹt, khoe mạch đã bay được, và hỗ trợ lẫn nhau. Vào tự do.
+
 ---
 
 ## Phần cứng
@@ -152,6 +155,10 @@ Học trực tiếp tại TP.HCM, hoặc online cho các tỉnh thành khác.
 Khoá học là để đi nhanh, an toàn và xa hơn — không phải để mở khoá thứ gì.
 
 ## Liên hệ
+
+**Nhóm cộng đồng Zalo:** https://zalo.me/g/82dzphstzd1gbarwtckt
+Hỏi đáp, gỡ lỗi, chia sẻ kinh nghiệm giữa những người cùng làm. Đây là nơi nên
+hỏi trước, vì nhiều người thấy câu hỏi thì khả năng được trả lời nhanh hơn.
 
 **Nguyễn Văn Quý** — Kỹ Thuật UAV
 📞 0817 550 271 (gọi hoặc Zalo)
