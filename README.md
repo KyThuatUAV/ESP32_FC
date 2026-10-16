@@ -7,8 +7,16 @@ Dành cho sinh viên và người tự học. Miễn phí, không điều kiện
 
 LacWing là dòng bộ điều khiển bay của Kỹ Thuật UAV.
 
-> 💬 **Nhóm cộng đồng trên Zalo — [bấm vào đây để tham gia](https://zalo.me/g/82dzphstzd1gbarwtckt)**
-> Chỗ để hỏi khi bị kẹt, khoe mạch đã bay được, và hỗ trợ lẫn nhau. Vào tự do.
+## 💬 Nhóm cộng đồng — Kỹ thuật UAV & LacWing
+
+Chỗ để hỏi khi bị kẹt, khoe mạch đã bay được, và hỗ trợ lẫn nhau. Vào tự do.
+
+**[Bấm vào đây để tham gia](https://zalo.me/g/82dzphstzd1gbarwtckt)** — hoặc mở Zalo quét mã:
+
+<img src="Tài%20liệu%20kèm%20theo/nhom_zalo.png" alt="Mã QR nhóm Zalo Kỹ thuật UAV và LacWing" width="250">
+
+Mở từ TikTok thì bấm link sẽ không vào được app Zalo — quét mã QR hoặc mở link
+bằng trình duyệt.
 
 ---
 
@@ -156,7 +164,7 @@ Khoá học là để đi nhanh, an toàn và xa hơn — không phải để m�
 
 ## Liên hệ
 
-**Nhóm cộng đồng Zalo:** https://zalo.me/g/82dzphstzd1gbarwtckt
+**Nhóm cộng đồng Zalo — Kỹ thuật UAV & LacWing:** https://zalo.me/g/82dzphstzd1gbarwtckt
 Hỏi đáp, gỡ lỗi, chia sẻ kinh nghiệm giữa những người cùng làm. Đây là nơi nên
 hỏi trước, vì nhiều người thấy câu hỏi thì khả năng được trả lời nhanh hơn.
 
