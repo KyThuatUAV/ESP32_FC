@@ -172,7 +172,7 @@ từ nhiều trường đại học trên toàn quốc.
 
 Khoá học là để đi nhanh, an toàn và xa hơn — không phải để mở khoá thứ gì.
 
-## Thành tích của Nguyễn Văn Quý
+## Thành tích của tôi Nguyễn Văn Quý
 
 Toàn bộ mã nguồn trong repo này do **một tay mình viết**. Có tham khảo tài liệu
 của người đi trước, và ghi rõ tham khảo cái gì từ ai ở mục Ghi công bên trên.
