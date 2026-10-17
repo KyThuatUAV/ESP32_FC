@@ -174,10 +174,13 @@ Khoá học là để đi nhanh, an toàn và xa hơn — không phải để m�
 
 ## Thành tích của Nguyễn Văn Quý
 
-Đây là thành tích cá nhân của mình — người trực tiếp đứng lớp — không phải của
-riêng bộ mã nguồn này. Mạch tự phát triển chỉ được dùng ở hai cuộc có dấu ★ — bản **ESP32** ở Học
-viện Hàng không, bản **Teensy 4.1** ở UAV Contest lần 3, cả hai đều lập trình
-**100% trên Arduino IDE**. Các giải còn lại bay bằng nền tảng khác.
+Toàn bộ mã nguồn trong repo này do **một tay mình viết**. Có tham khảo tài liệu
+của người đi trước, và ghi rõ tham khảo cái gì từ ai ở mục Ghi công bên trên.
+
+Các giải dưới đây là thành tích cá nhân của mình — người trực tiếp đứng lớp.
+Mạch tự phát triển được dùng ở hai cuộc có dấu ★: bản **ESP32** ở Học viện Hàng
+không, bản **Teensy 4.1** ở UAV Contest lần 3, cả hai đều lập trình **100% trên
+Arduino IDE**. Các giải còn lại bay bằng nền tảng khác.
 
 | Năm | Giải |
 |---|---|
