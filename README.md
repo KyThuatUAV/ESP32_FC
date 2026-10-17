@@ -181,11 +181,11 @@ nền tảng khác.
 | Năm | Giải |
 |---|---|
 | 2026 | ★ **Vô địch** cuộc thi UAV, Học viện Hàng không Việt Nam — bay bằng mạch và mã nguồn tự phát triển 100% trên Arduino IDE |
-| 2026 | ★ **Đội duy nhất tự phát triển flight controller** — bay tự hành bằng UWB, không dùng GPS. UAV Contest lần 3, ĐH Công nghệ Kỹ thuật TP.HCM |
+| 2026 | ★ **Đội duy nhất thi đấu bằng flight controller tự phát triển** — bay tự hành bằng UWB, không GPS. UAV Contest lần 3, ĐH Công nghệ Kỹ thuật TP.HCM |
 | 2025 | **Á quân UAV Contest lần 2** — cuộc thi quốc tế tại Ostrava, Cộng hoà Séc |
 | 2025 | **Vô địch nội dung bay tự động** — cuộc thi UAV, Học viện Hàng không Việt Nam |
 | 2025 | **Top 8 toàn quốc** — trưởng nhóm đội AERO-V, UAV Cup PV GAS |
-| 2024 | **Giải Sáng tạo** — đội duy nhất trong 9 đội bay tự động thành công, UAV Contest lần 1, ĐH Tôn Đức Thắng |
+| 2024 | **Đội duy nhất trong 9 đội bay được phần tự động**, tám đội còn lại không hoàn thành — Giải Sáng tạo, UAV Contest lần 1, ĐH Tôn Đức Thắng |
 
 ## Liên hệ
 
