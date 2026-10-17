@@ -169,14 +169,16 @@ từ nhiều trường đại học trên toàn quốc.
 
 Khoá học là để đi nhanh, an toàn và xa hơn — không phải để mở khoá thứ gì.
 
-## Thành tích
+## Thành tích của người đứng lớp
 
-Mạch bay và firmware trong repo này thuộc cùng dòng sản phẩm đã mang đi thi:
+Đây là thành tích cá nhân của người hướng dẫn, không phải của riêng bộ mã nguồn
+này. Mạch LacWing chỉ được dùng ở hai cuộc có dấu ★; các giải còn lại bay bằng
+nền tảng khác.
 
 | Năm | Giải |
 |---|---|
-| 2026 | **Huấn luyện đội vô địch** cuộc thi UAV, Học viện Hàng không Việt Nam — đội bay bằng mạch và mã nguồn tự phát triển |
-| 2026 | **Đội duy nhất tự phát triển flight controller** — bay tự hành bằng UWB, không dùng GPS. UAV Contest lần 3, ĐH Công nghệ Kỹ thuật TP.HCM |
+| 2026 | ★ **Vô địch** cuộc thi UAV, Học viện Hàng không Việt Nam — đội do mình huấn luyện, bay bằng mạch và mã nguồn tự phát triển |
+| 2026 | ★ **Đội duy nhất tự phát triển flight controller** — bay tự hành bằng UWB, không dùng GPS. UAV Contest lần 3, ĐH Công nghệ Kỹ thuật TP.HCM |
 | 2025 | **Á quân UAV Contest lần 2** — cuộc thi quốc tế tại Ostrava, Cộng hoà Séc |
 | 2025 | **Vô địch nội dung bay tự động** — cuộc thi UAV, Học viện Hàng không Việt Nam |
 | 2025 | **Top 8 toàn quốc** — trưởng nhóm đội AERO-V, UAV Cup PV GAS |
