@@ -149,18 +149,38 @@ Bộ mã nguồn ở đây là **bậc đầu tiên**: bay cân bằng. Miễn p
 liệu viết để bạn tự đi hết được một mình. **Không cần học khoá nào cũng dùng
 được trọn bộ này.**
 
-Ai muốn đi nhanh hơn thì có khoá học, đi từ số 0, kèm 1-1:
+Ai muốn đi nhanh hơn thì có khoá học, đi từ số 0, học **1 kèm 1**:
 
-| Bậc | Nội dung |
-|---|---|
-| 1 | **Lập trình bay cân bằng** — ước lượng góc, PID, mixer |
-| 2 | **Lập trình giữ vị trí** — baro, lidar, optical flow, hợp nhất cảm biến |
-| 3 | **Lập trình đa luồng và xử lý nhiễu** — làm drone hết rung, motor hết nóng, chỉnh PID sâu hơn mà không bị rít |
-| 4 | **Lập trình hệ định vị và tự hành** |
+| Bậc | Đầu ra | Số buổi | Học phí | Linh kiện |
+|---|---|---|---|---|
+| **1** | Drone hover ổn định bằng bộ điều khiển do chính học viên viết | 8 buổi | **4.000.000 đ** | 6.095.000 đ |
+| **2** | Drone tự giữ độ cao và giữ nguyên vị trí — buông tay điều khiển vẫn không trôi | 12 buổi | **6.000.000 đ** | + 880.000 đ |
+| **3** | Mạch bay chạy ổn định, đem so được với các mã nguồn lớn, đủ sức làm nền cho đề tài nghiên cứu khoa học | Liên hệ | Liên hệ | + 4.200.000 đ |
+| **4** | Drone bay tự hành ở nơi không có GPS: đi theo hành trình, tự về điểm xuất phát, tự xử lý khi mất tín hiệu | Liên hệ | Liên hệ | Liên hệ |
 
-Học trực tiếp tại TP.HCM, hoặc online cho các tỉnh thành khác.
+Nghiệm thu xong bậc trước mới lên bậc sau. Dừng ở bậc nào cũng được — máy vẫn bay.
+
+Firmware chạy trong mạch là thứ **học viên tự viết ra trong khoá**, không phải
+phần mềm mua sẵn rồi học cách bấm nút. Linh kiện học viên tự mua theo danh sách
+công khai, không mua qua mình; PCB thì được tặng.
+
+Học trực tiếp tại TP.HCM, hoặc online cho các tỉnh thành khác. Hơn 50 học viên
+từ nhiều trường đại học trên toàn quốc.
 
 Khoá học là để đi nhanh, an toàn và xa hơn — không phải để mở khoá thứ gì.
+
+## Thành tích
+
+Mạch bay và firmware trong repo này thuộc cùng dòng sản phẩm đã mang đi thi:
+
+| Năm | Giải |
+|---|---|
+| 2026 | **Huấn luyện đội vô địch** cuộc thi UAV, Học viện Hàng không Việt Nam — đội bay bằng mạch và mã nguồn tự phát triển |
+| 2026 | **Đội duy nhất tự phát triển flight controller** — bay tự hành bằng UWB, không dùng GPS. UAV Contest lần 3, ĐH Công nghệ Kỹ thuật TP.HCM |
+| 2025 | **Á quân UAV Contest lần 2** — cuộc thi quốc tế tại Ostrava, Cộng hoà Séc |
+| 2025 | **Vô địch nội dung bay tự động** — cuộc thi UAV, Học viện Hàng không Việt Nam |
+| 2025 | **Top 8 toàn quốc** — trưởng nhóm đội AERO-V, UAV Cup PV GAS |
+| 2024 | **Giải Sáng tạo** — đội duy nhất trong 9 đội bay tự động thành công, UAV Contest lần 1, ĐH Tôn Đức Thắng |
 
 ## Liên hệ
 
