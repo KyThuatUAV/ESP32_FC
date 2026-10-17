@@ -160,12 +160,12 @@ Ai muốn đi nhanh hơn thì có khoá học, đi từ số 0, học **1 kèm 1
 
 Nghiệm thu xong bậc trước mới lên bậc sau. Dừng ở bậc nào cũng được — máy vẫn bay.
 
-Chi phí linh kiện, học viên tự mua: bậc 1 khoảng **6.095.000 đ**, bậc 2 thêm
-**880.000 đ**, bậc 3 thêm **4.200.000 đ**.
+**Học viên tự viết firmware trong khoá**, không phải học cách bấm nút trên phần
+mềm mua sẵn.
 
-Firmware chạy trong mạch là thứ **học viên tự viết ra trong khoá**, không phải
-phần mềm mua sẵn rồi học cách bấm nút. Linh kiện học viên tự mua theo danh sách
-công khai, không mua qua mình; PCB thì được tặng.
+Linh kiện tự mua theo danh sách công khai, không mua qua mình: bậc 1 khoảng
+**6.095.000 đ**, bậc 2 thêm **880.000 đ**, bậc 3 thêm **4.200.000 đ**. PCB được
+tặng.
 
 Học trực tiếp tại TP.HCM, hoặc online cho các tỉnh thành khác. Hơn 50 học viên
 từ nhiều trường đại học trên toàn quốc.
