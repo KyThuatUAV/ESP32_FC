@@ -151,14 +151,17 @@ liệu viết để bạn tự đi hết được một mình. **Không cần h�
 
 Ai muốn đi nhanh hơn thì có khoá học, đi từ số 0, học **1 kèm 1**:
 
-| Bậc | Đầu ra | Số buổi | Học phí | Linh kiện |
-|---|---|---|---|---|
-| **1** | Drone hover ổn định bằng bộ điều khiển do chính học viên viết | 8 buổi | **4.000.000 đ** | 6.095.000 đ |
-| **2** | Drone tự giữ độ cao và giữ nguyên vị trí — buông tay điều khiển vẫn không trôi | 12 buổi | **6.000.000 đ** | + 880.000 đ |
-| **3** | Mạch bay chạy ổn định, đem so được với các mã nguồn lớn, đủ sức làm nền cho đề tài nghiên cứu khoa học | Liên hệ | Liên hệ | + 4.200.000 đ |
-| **4** | Drone bay tự hành ở nơi không có GPS: đi theo hành trình, tự về điểm xuất phát, tự xử lý khi mất tín hiệu | Liên hệ | Liên hệ | Liên hệ |
+| Bậc | Đầu ra | Học phí |
+|---|---|---|
+| **1** | Drone hover ổn định, firmware do học viên tự viết | **4.000.000 đ**<br>8 buổi |
+| **2** | Giữ độ cao và giữ vị trí, buông tay không trôi | **6.000.000 đ**<br>12 buổi |
+| **3** | Mạch ổn định, đủ làm nền cho nghiên cứu khoa học | Liên hệ |
+| **4** | Bay tự hành không GPS, tự về điểm xuất phát | Liên hệ |
 
 Nghiệm thu xong bậc trước mới lên bậc sau. Dừng ở bậc nào cũng được — máy vẫn bay.
+
+Chi phí linh kiện, học viên tự mua: bậc 1 khoảng **6.095.000 đ**, bậc 2 thêm
+**880.000 đ**, bậc 3 thêm **4.200.000 đ**.
 
 Firmware chạy trong mạch là thứ **học viên tự viết ra trong khoá**, không phải
 phần mềm mua sẵn rồi học cách bấm nút. Linh kiện học viên tự mua theo danh sách
