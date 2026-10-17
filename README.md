@@ -3,9 +3,6 @@
 Mã nguồn mở của một bộ điều khiển bay (flight controller) cho drone bốn cánh,
 chạy trên ESP32. Kèm tài liệu hướng dẫn từ lúc cài phần mềm tới lúc bay thử.
 
-**Viết 100% bằng Arduino IDE** — không cần ESP-IDF, không cần PlatformIO. Cài
-Arduino IDE, mở file `.ino`, bấm nạp. Ai từng chớp tắt con LED là bắt đầu được.
-
 Dành cho sinh viên và người tự học. Miễn phí, không điều kiện.
 
 LacWing là dòng bộ điều khiển bay của Kỹ Thuật UAV.
@@ -183,7 +180,7 @@ nền tảng khác.
 
 | Năm | Giải |
 |---|---|
-| 2026 | ★ **Vô địch** cuộc thi UAV, Học viện Hàng không Việt Nam — bay bằng mạch và mã nguồn tự phát triển |
+| 2026 | ★ **Vô địch** cuộc thi UAV, Học viện Hàng không Việt Nam — bay bằng mạch và mã nguồn tự phát triển 100% trên Arduino IDE |
 | 2026 | ★ **Đội duy nhất tự phát triển flight controller** — bay tự hành bằng UWB, không dùng GPS. UAV Contest lần 3, ĐH Công nghệ Kỹ thuật TP.HCM |
 | 2025 | **Á quân UAV Contest lần 2** — cuộc thi quốc tế tại Ostrava, Cộng hoà Séc |
 | 2025 | **Vô địch nội dung bay tự động** — cuộc thi UAV, Học viện Hàng không Việt Nam |
