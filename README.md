@@ -175,12 +175,13 @@ Khoá học là để đi nhanh, an toàn và xa hơn — không phải để m�
 ## Thành tích của người đứng lớp
 
 Đây là thành tích cá nhân của người hướng dẫn, không phải của riêng bộ mã nguồn
-này. Mạch LacWing chỉ được dùng ở hai cuộc có dấu ★; các giải còn lại bay bằng
-nền tảng khác.
+này. Mạch tự phát triển chỉ được dùng ở hai cuộc có dấu ★ — bản **ESP32** ở Học
+viện Hàng không, bản **Teensy 4.1** ở UAV Contest lần 3, cả hai đều lập trình
+**100% trên Arduino IDE**. Các giải còn lại bay bằng nền tảng khác.
 
 | Năm | Giải |
 |---|---|
-| 2026 | ★ **Vô địch** cuộc thi UAV, Học viện Hàng không Việt Nam — bay bằng mạch và mã nguồn tự phát triển 100% trên Arduino IDE |
+| 2026 | ★ **Vô địch** cuộc thi UAV, Học viện Hàng không Việt Nam — bay bằng mạch và mã nguồn tự phát triển |
 | 2026 | ★ **Đội duy nhất trong 10 đội thi đấu bằng flight controller tự phát triển**, chín đội còn lại dùng Pixhawk — bay tự hành bằng UWB, không GPS. UAV Contest lần 3, ĐH Công nghệ Kỹ thuật TP.HCM |
 | 2025 | **Á quân UAV Contest lần 2** — cuộc thi quốc tế tại Ostrava, Cộng hoà Séc |
 | 2025 | **Vô địch nội dung bay tự động** — cuộc thi UAV, Học viện Hàng không Việt Nam |
