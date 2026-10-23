@@ -166,8 +166,7 @@ Không phải tải Betaflight hay ArduPilot về rồi học cách tích chọn
 diện có sẵn.
 
 Linh kiện tự mua theo danh sách công khai, không mua qua mình: bậc 1 khoảng
-**6.095.000 đ**, bậc 2 thêm **880.000 đ**, bậc 3 thêm **4.200.000 đ**. PCB được
-tặng.
+**6.095.000 đ**, bậc 2 thêm **880.000 đ**. PCB được tặng.
 
 Học trực tiếp tại TP.HCM, hoặc online cho các tỉnh thành khác. Hơn 50 học viên
 từ nhiều trường đại học trên toàn quốc.
